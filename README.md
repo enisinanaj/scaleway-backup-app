@@ -1,6 +1,6 @@
 # Java App for routine actions on your Scaleway account
 
-## 1. Build 
+## 1. Build
 
 `$ ./gradlew clean bootJar`
 
@@ -27,4 +27,4 @@ Save the file and you're done.
 
 ## Reference
 
-Scalewaz API [https://developers.scaleway.com/en/products/instance/api/#endpoints]
+Scaleway API [https://developers.scaleway.com/en/products/instance/api/#endpoints]
